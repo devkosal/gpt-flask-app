@@ -1,6 +1,6 @@
 # gpt-flask-app
 
-A basic app which loads the Open GPT base model and predicts n number of words in a seuence provided some starting text.
+A simple text generation app which loads the Open GPT base model and generates n number of words in a seuence provided some starting text.
 
 ### TODO:
 - make it prettier
